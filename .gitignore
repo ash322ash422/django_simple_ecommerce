@@ -10,6 +10,7 @@ __pycache__/
 .venv/
 README_furtive.py
 .env
+db.sqlite3
 
 static_root
 media_root
